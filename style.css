@@ -1,0 +1,80 @@
+.navbar{
+    border:1px solid black;
+    width:1100px;
+    height:100px;
+}
+.lines{
+   
+    margin-top: -50px;
+    margin-left: 20px;
+}
+.searchbox{
+    border:1px solid black;
+    width:300px;
+    height:20px;
+    margin-left: 240px;
+    margin-top: -70px;
+}
+.sidebar{
+    width:180px;
+    height:20px;
+    margin-left: 900px;
+    margin-top: -30px;
+}
+.rightbox{
+    
+    width:200px;
+    height:700px;
+}
+li{
+    color: rgb(73, 73, 215);
+}
+.mainbox{
+  
+    width:880px;
+    height:3940px;
+    margin-left: 210px;
+    margin-top: -500px;
+}
+.box{
+    
+    width:100px;
+    height:20px;
+    margin-top:-20px;
+}
+.leftbox{
+    border:1px solid black;
+    width:200px;
+    height:900px;
+    margin-left: 650px;
+}
+.wiki{
+    margin-top: -900px;
+}
+.flowerbox{
+    border:1px solid black;
+    width:120px;
+    height:500px;
+}
+.taxbox{
+    border:1px solid black;
+    width:200px;
+    height:250px;
+    margin-left: 600px;
+}
+.habbox{
+    border:1px solid black;
+    width:200px;
+    height:200px;
+    margin-left: 600px;
+}
+.culbox{
+    border:1px solid black;
+    width:150px;
+    height:350px;
+    margin-left:650px;
+}
+.final{
+    margin-left: 170px;
+    width:900px;
+}
